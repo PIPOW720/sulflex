@@ -1,1 +1,1 @@
-CSS separado: não substitua css/styles.css. Suba css/loja.css, loja.html, produto.html e img/.
+Pacote corrigido. Use css/loja.css separado; não substitua css/styles.css. A logo usada é img/logobrancasulflex.png.
