@@ -1,0 +1,1 @@
+CSS separado: não substitua css/styles.css. Suba css/loja.css, loja.html, produto.html e img/.
